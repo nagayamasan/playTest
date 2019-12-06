@@ -1,0 +1,9 @@
+[debug] Packaging /Users/nagayama/IdeaProjects/playTest/target/scala-2.13/playtest_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  /Users/nagayama/IdeaProjects/playTest/target/scala-2.13/classes
+[debug] 	sample.class
+[debug] 	  /Users/nagayama/IdeaProjects/playTest/target/scala-2.13/classes/sample.class
+[debug] 	sample$.class
+[debug] 	  /Users/nagayama/IdeaProjects/playTest/target/scala-2.13/classes/sample$.class
+[debug] Done packaging.
